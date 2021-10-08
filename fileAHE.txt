@@ -1,0 +1,2 @@
+ini adalah file branch yang baru dibuat oleh inisial AHE
+file ini sebagai bentuk praktikum dalam membuat percabangan di dalam git
